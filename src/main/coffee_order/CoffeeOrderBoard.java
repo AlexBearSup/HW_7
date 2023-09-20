@@ -1,3 +1,5 @@
+package main.coffee_order;
+
 import java.util.*;
 
 public class CoffeeOrderBoard {

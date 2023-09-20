@@ -1,3 +1,5 @@
+package main.coffee_order;
+
 public class Main {
     public static void main(String[] args) {
 
